@@ -14,7 +14,7 @@ TODOApp is a robust task management application that strictly follows **Material
 - **Edge-to-Edge**: Full edge-to-edge display support for a modern, immersive feel.
 
 ## Visuals
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](screenshots/screenshots/1.png)
 
 ## Tech Stack
 - **Language**: Kotlin
