@@ -13,9 +13,6 @@ TODOApp is a robust task management application that strictly follows **Material
 - **Material 3 Vibrant Design**: Features a dynamic color scheme, expressive typography, and an adaptive app icon.
 - **Edge-to-Edge**: Full edge-to-edge display support for a modern, immersive feel.
 
-## Visuals
-![Main Screen](screenshots/screenshots/1.png)
-
 ## Tech Stack
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
