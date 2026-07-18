@@ -1,3 +1,11 @@
-# TODOApp
+# WaffenWar
 
-A vibrant and energetic Android To-Do List application built with modern standards.
+Пошаговая стратегия на тему Второй Мировой войны.
+
+## Особенности
+- Пошаговая стратегия
+- Альбомный режим
+- Полностью офлайн
+
+## Скачать
+Последнюю версию можно скачать в разделе [Releases](../../releases/latest) или установить через RepoStore.
